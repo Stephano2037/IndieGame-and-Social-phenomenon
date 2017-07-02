@@ -7,3 +7,5 @@ Collected 15  game data (until now, total 415) - 2017-06-30
 Collected 15  game data (until now, total 430) - 2017-07-01
 
 Collected 15  game data (until now, total 445) - 2017-07-02
+
+Collected 15  game data (until now, total 445) - 2017-07-02
