@@ -15,4 +15,10 @@ Collected 15  game data (until now, total 475) - 2017-07-04
 Collected 15  game data (until now, total 490) - 2017-07-05 
 
 
+
 Make the Crawling Code for Collecting Game_data Automatically .(ver 1.0)
+
+
+
+Collected 50  game data (until now, total 540) - 2017-07-07 ~ 2010-07-08
+ 
