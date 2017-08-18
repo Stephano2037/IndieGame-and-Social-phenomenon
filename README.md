@@ -1,4 +1,5 @@
 # IndieGame-and-Social-phenomenon
+<<<<<<< HEAD
 
 
 원래 생각했던 주제는 인디개발자가 게임개발을 할 경우,  그 게임이 얼마나 팔릴 수 있는지  매출액에 대해서 예측하는 시스템(Predict_gamedownload)을 만들려 하였습니다.
@@ -60,3 +61,6 @@
 
 
 
+=======
+  
+>>>>>>> origin/master
