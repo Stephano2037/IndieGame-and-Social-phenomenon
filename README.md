@@ -52,7 +52,7 @@
 또한 공공 개발(ex) 특정게임은 일본인과 스웨덴인이 함께 만들었습니다.)이라고 써져있는경우도, 도메인 IP를 찾아 해당 IP와 일치하는 나라(혹은 가까운 나라)를 데이터로 넣었습니다.
 
 그리고 회사설립국가가 명확하게 명시된곳은  , 해당 국적(동일한 국적)을 가진 사람이 해당 국가에 회사를 세웠다고 판단하여, 사이트에서 명시한 국가를 데이터로 집어넣었습니다.  
- 나머지  column소개  및 데이터분석에 관한 자세한 설명은  IndieGame-and-Social-phenomenon/Processofprogress 폴더에 있는 "FirstPreProcessing","AfterPreProcessing"에 설명되어 있습니다
- 부족한  분석글이고 글도  미흡한 부분이 많지만 가볍게봐주셨으면합니다 
- 감사합니다
+ 나머지  column소개  및 데이터분석에 관한 자세한 설명은  IndieGame-and-Social-phenomenon/Processofprogress 폴더에 있는 "FirstPreProcessing","AfterPreProcessing"에 설명되어 있습니다.
+ 부족한  분석글이고 글도  미흡한 부분이 많지만 가볍게봐주셨으면합니다. 
+ 감사합니다.
  
