@@ -26,7 +26,7 @@
 우선 주제가 인디게임과 사회현상이다보니, 인디게임들이 많이 출시되는 steam에서 데이터를 이용하기로 하였고, 동시에 특정 스팀게임의 보유자 수 정보를 갖고있는 steamspy에서
 데이터들을 Crawling하였습니다.
 
-스팀데이터를 모두 동일한 'Puzzle'태그(장르)에서 1000개 데이터를 모았고, 이 중에서 steamspy에 나오지않는 게임들(DLC추가판등등)은 모두 제외하고 보니, 실질적으로 987개의 데이터가 남았습니다.
+스팀데이터를 모두 동일한 'Puzzle'태그(장르)에서 1000개 데이터를 모았고, 이 중에서 steamspy에 나오지않는 게임들(DLC추가판등등)은 모두 제외하고 보니, 실질적으로 987개의 데이터가 남았으며, 
 
 
 
@@ -34,25 +34,21 @@
 
 
 1. EngineorLanguage / 엔진
-
-구글검색 > indie db > youtube질문 or 개발자,혹은 회사에 직접 질문(메일)
+- 탐색절차
+  --> 구글검색 > indie db > youtube질문 or 개발자 혹은 회사에 직접 질문(메일)
 
 2. FoundingdateofCompany / 회사설립년도
-
-각 게임회사(혹은 게임개발자) 웹사이트 presskit > facebook or twitter > linkedin site (해외 이력서 사이트)>  google검색 > 못찾음
+- 탐색절차
+  --> 각 게임회사(혹은 게임개발자) 웹사이트 presskit > facebook or twitter > linkedin site (해외 이력서 사이트)>  google검색 > 못찾음
 
 3.   Nationaility / 개발자 의 국적 혹은 회사가 설립된 장소(국가)
+- 탐색 절차
+  --> 각 게임회사(혹은 게임개발자) 웹사이트 presskit > facebook or twitter > linkedin site (해외 이력서 사이트)>  웹사이트 국가 IP 확인> 못찾음
 
+- 공동 개발(ex) 특정게임은 일본인과 스웨덴인이 함께 만들었습니다.)이라고 써져있는경우도, 도메인 IP를 찾아 해당 IP와 일치하는 나라를 데이터로 집어넣었습니다.
+- 그리고 회사설립국가가 명확하게 명시된곳은  , 해당 국적(동일한 국적)을 가진 사람이 해당 국가에 회사를 세웠다고 판단하여, 사이트에서 명시한 국가를 데이터로 집어넣었습니다.
 
-각 게임회사(혹은 게임개발자) 웹사이트 presskit > facebook or twitter > linkedin site (해외 이력서 사이트)>  웹사이트 국가 IP 확인> 못찾음
-
-
-사실 제일 민감한 부분인데, 웹사이트 국가 IP를 확인하면 실질적으로 안맞을 가능성이 높다고 판단되지만, 특정 게임개발자의 웹사이트를 찾았는데 아무런 정보가 없을경우 이 방법을 취하게되었습니다.
-
-또한 공공 개발(ex) 특정게임은 일본인과 스웨덴인이 함께 만들었습니다.)이라고 써져있는경우도, 도메인 IP를 찾아 해당 IP와 일치하는 나라(혹은 가까운 나라)를 데이터로 넣었습니다.
-
-그리고 회사설립국가가 명확하게 명시된곳은  , 해당 국적(동일한 국적)을 가진 사람이 해당 국가에 회사를 세웠다고 판단하여, 사이트에서 명시한 국가를 데이터로 집어넣었습니다.  
- 나머지  column소개  및 데이터분석에 관한 자세한 설명은  IndieGame-and-Social-phenomenon/Processofprogress 폴더에 있는 "FirstPreProcessing","AfterPreProcessing"에 설명되어 있습니다.
- 부족한  분석글이고 글도  미흡한 부분이 많지만 가볍게봐주셨으면합니다. 
+나머지  column소개  및 데이터분석에 관한 자세한 설명은  IndieGame-and-Social-phenomenon/Processofprogress 폴더에 있는 "FirstPreProcessing","AfterPreProcessing"에 설명되어 있습니다.
+ 
  감사합니다.
  
